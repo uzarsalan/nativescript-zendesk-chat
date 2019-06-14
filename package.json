@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      "nativescript-zendesk-with-chat@0.2.4",
+      "/Users/arsalan/apps/patriot/patriot_app"
+    ]
+  ],
+  "_from": "nativescript-zendesk-with-chat@0.2.4",
+  "_id": "nativescript-zendesk-with-chat@0.2.4",
+  "_inBundle": false,
+  "_integrity": "sha512-rag6SwqqEnu0sxvjVa4i1+bK5PLIkaTJ8vnUoJrdbTkeXaO3SzRrExP7ztrAizIZ/ZWZmdzra975Kxw0AUbXvg==",
+  "_location": "/nativescript-zendesk-with-chat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nativescript-zendesk-with-chat@0.2.4",
+    "name": "nativescript-zendesk-with-chat",
+    "escapedName": "nativescript-zendesk-with-chat",
+    "rawSpec": "0.2.4",
+    "saveSpec": null,
+    "fetchSpec": "0.2.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-zendesk-with-chat/-/nativescript-zendesk-with-chat-0.2.4.tgz",
+  "_spec": "0.2.4",
+  "_where": "/Users/arsalan/apps/patriot/patriot_app",
+  "author": {
+    "name": "Quang Le",
+    "email": "quang@inspectorio.com",
+    "url": "https://github.com/qlehong"
+  },
+  "bugs": {
+    "url": "https://github.com/qlehong/Zendesk-Chat-Nativescript/issues"
+  },
+  "contributors": [
+    {
+      "name": "Phat Tran",
+      "email": "phat@inspectorio.com",
+      "url": "https://github.com/phattranky"
+    }
+  ],
+  "description": "A NativeScript module for integrating Zendesk chat",
+  "homepage": "https://github.com/qlehong/Zendesk-Chat-Nativescript",
+  "keywords": [
+    "NativeScript",
+    "Zendesk",
+    "Chat",
+    "iOS",
+    "Android"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "nativescript-zendesk-with-chat",
+  "nativescript": {
+    "platforms": {
+      "android": "1.6.0",
+      "ios": "1.6.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qlehong/Zendesk-Chat-Nativescript.git"
+  },
+  "version": "0.2.4"
+}
